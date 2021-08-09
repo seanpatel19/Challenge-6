@@ -1,4 +1,4 @@
-# H1 San Francisico Housing Market
+San Francisico Housing Market
 
 This challenge was too take housing data and visualise it to accomplish the following:
 
